@@ -48,3 +48,17 @@
 * Blue(430 wavelength)
   Green(540 wavelength)
   Red(560 wavelength)
+
+
+#V1(Primary visual cortex == Occital lobe)
+**if damaged, even if eyeballs is good, you can not process the visual information, so you are blind**
+
+#V2(Secondary visual cortex == Around pccital lobe)
+**help you see edges**
+
+#V4(Dorsal Stream goes to parietal lobe)
+**if parietal lobe is damaged, you cannot locate a object, but you can describe it**
+
+#V5(The ventral strem goes to temporal lobe)
+**You cannot recognize an object, but you can see its location. It results in face blindness incluing your own**
+
